@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in the QMSS master program at Columbia University.
 - 🌱 I graduated from New York University Economics major.
-- 📫 How to reach me: You can find me on [![LinkedIn][1.2]][1]
+- 📫 How to reach me: You can find me on LinkedIn[![LinkedIn][1.2]][1]
 - 😄 Pronouns: He/Him/His
 <!-- Actual text -->
 During college, I had a project experience and an internship experience. I studied Natural Language Processing with the help of expertise from C3 Alliance and individually built an emotion-detective music app model. I also worked at Accenture as a strategic analyst in the medical field. I have a telemedicine dream. I think doctor is an extreme-high-cost job that makes the in-person medical visit inefficient. Patients face unfair distribution of medical resources nowadays due to this inefficiency and the extremely high cost of building a new doctor. Therefore, I'm looking for a better and more high-tech solution in telemedicine to provide more patients with a better medical visit experience.
